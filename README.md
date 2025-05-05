@@ -10,3 +10,7 @@ jorgehpo. “NotebookJS.” GitHub. 26 Oct. 2021. https://github.com/jorgehpo/no
 Orlov, Anton. “Radial Bar Chart Built With D3.” Bl.ocks. 19 Feb. 2020. https://bl.ocks.org/AntonOrlov/6b42d8676943cc933f48a43a7c7e5b6c.
 Majorek, Jakub. "19 Best JavaScript Data Visualization Libraries." 22 June. 2024. https://www.monterail.com/blog/javascript-libraries-data-visualization.
 Bostock, Mike. “Gallery.” Observable. 4 Feb. 2020. https://observablehq.com/@d3/gallery.
+
+## HTML
+Refsnes Data. “HTML Element Reference.” W3Schools. 2022. https://www.w3schools.com/TAGS/default.ASP.  
+Bostock, Mike. “Gallery.” Observable. 4 Feb. 2020. https://observablehq.com/@d3/gallery.  

@@ -1,6 +1,6 @@
 # Flask
 
-## Java Scriot
+## Java Script
 lakshita. “Introduction to JavaScript.” GeeksforGeeks. 26 Oct. 2021. https://www.geeksforgeeks.org/introduction-to-javascript/.
 sheyakhare1999. “JavaScript | Statements.” GeeksforGeeks. 25 Mar. 2019. https://www.geeksforgeeks.org/javascript-statements/.
 Pur3 Ltd. “Bangle.js 2.” Espruino. 2017. https://www.espruino.com/Bangle.js2.
